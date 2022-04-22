@@ -12,7 +12,7 @@ A simple tennis game with unit test.
 
 ```swift
 
-func testLoveAll() {
+    func testLoveAll() {
         scoreShouldBe(expected: "love all")
     }
     
